@@ -28,11 +28,6 @@ I'm a passionate Developer with experience in Web Application. I love tackling c
 
 Nexus — Real-Time Chat App is a full-stack real-time chat app built with MERN + Socket.io. All communication happens over WebSockets. Messages are stored locally on the device using IndexedDB, keeping MongoDB lean, built with HTML, CSS and JS. You can check out the repository [here]([project_1_repository_link](https://github.com/Ga1233/chat-app)).
 
-AI Email Reply Assistant [(project_2_link)](https://ai-email-assistant-mu.vercel.app/)
-
-![Project 2 Screenshot](project_2_screenshot_url)
-
-AI Email Reply Assistant is a An AI-powered email reply generator using Groq (Llama 3.3 70B). No login required — open for everyone to use, built with HTML,CSS and JS. You can check out the repository [here]([project_2_repository_link](https://github.com/Ga1233/Ai-email-assistant)).
 
 ## Get in Touch 📬
 
