@@ -1,0 +1,58 @@
+{
+  "title": "Full-Stack Developer",
+  "bio": "Information Technology graduate from Mumbai University with hands-on experience in full-stack development and cybersecurity. I build secure, scalable applications with the MERN stack.",
+  "about": "I\u2019m an IT graduate from Mumbai University with hands-on experience in full-stack development and cybersecurity. I work with the MERN stack and AI-integrated applications, and I\u2019m skilled in penetration testing, the OWASP Top 10 and Kali Linux. I\u2019ve built projects including a real-time chat app and a vulnerability scanner, and I\u2019m passionate about building secure, scalable applications.",
+  "email": "gawadegaurav581@gmail.com",
+
+  "skills": [
+    "Front-End Development", "React.js", "JavaScript", "Node.js", "Express", "MongoDB",
+    "MERN Stack", "Supabase", "Python", "HTML", "CSS", "Git & GitHub",
+    "Penetration Testing", "OWASP Top 10", "Kali Linux", "AI-Integrated Apps"
+  ],
+
+  "experience": [
+    {
+      "role": "Frontend Developer",
+      "org": "Yuva Intern by Henry Harvin",
+      "when": "Sep 2026 \u2013 Oct 2026 \u00b7 2 months",
+      "location": "Remote",
+      "desc": ""
+    },
+    {
+      "role": "Cyber Security Intern",
+      "org": "RedKross Research Foundation",
+      "when": "Dec 2025 \u2013 Feb 2026 \u00b7 3 months",
+      "location": "Thane, Maharashtra, India",
+      "desc": ""
+    },
+    {
+      "role": "Web Design & Development Intern",
+      "org": "TechnoHacks EduTech Official",
+      "when": "May 2025 \u2013 Jun 2025 \u00b7 2 months",
+      "location": "Maharashtra, India",
+      "desc": ""
+    }
+  ],
+
+  "education": [
+    {
+      "school": "Mulund College of Commerce",
+      "degree": "Master of Science, Information Technology",
+      "when": "Jun 2025 \u2013 Apr 2027",
+      "desc": ""
+    },
+    {
+      "school": "Mulund College of Commerce",
+      "degree": "Bachelor of Science, Information Technology",
+      "when": "Jul 2022 \u2013 Apr 2025",
+      "desc": ""
+    }
+  ],
+
+  "certifications": [
+    "Monitoring MongoDB with Built-in Tools",
+    "Introduction to Agentic AI Automation Course",
+    "Google Prompting Essentials",
+    "React JS"
+  ]
+}
